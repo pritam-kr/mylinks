@@ -7,7 +7,7 @@
     width: 650px;
 }
 .link-card{
-    border: 1px solid blue;
+    border: 1px solid rgba(1, 1, 139, 0.671);
     margin: 10px 0;
     padding: 13px 30px;
     display: flex;

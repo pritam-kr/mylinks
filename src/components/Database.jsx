@@ -20,18 +20,24 @@ export const linksdb = [
         link: "https://twitter.com/Pritamkr_"
     },
     {
-        title: "Github",
-        icon: "",
-        link: ""
+        title: "Gmail",
+        icon: "fas fa-at",
+        link: "mailto:pritamvr9@gmail.com"
     },
     {
-        title: "Github",
-        icon: "",
-        link: ""
+        title: "Instagram",
+        icon: "fab fa-instagram",
+        link: "https://www.instagram.com/pritam_kr30/"
     },
     {
-        title: "Github",
-        icon: "",
-        link: ""
+        title: "Blog",
+        icon: "fab fa-readme",
+        link: "https://pritamkumar.hashnode.dev/"
+    },
+    {
+        title: "Youtube",
+        icon: "fab fa-youtube",
+        link: "https://www.youtube.com/channel/UC7LfgvNkDe5LoQiwExMn0EA"
     }
 ]
+
