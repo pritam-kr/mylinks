@@ -34,10 +34,6 @@ export const linksdb = [
         icon: "fab fa-readme",
         link: "https://pritamkumar.hashnode.dev/"
     },
-    {
-        title: "Youtube",
-        icon: "fab fa-youtube",
-        link: "https://www.youtube.com/channel/UC7LfgvNkDe5LoQiwExMn0EA"
-    }
+    
 ]
 
